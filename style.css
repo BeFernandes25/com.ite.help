@@ -1,0 +1,57 @@
+.header {
+    background: #03412a;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.menu {
+    display: flex;
+}
+h1 {
+	text-align: center;
+}
+.menu li {
+    margin-left: 10px;
+}
+.cen{
+	text-align: center;
+	align-items: center;
+}
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.flex div {
+    flex: 1 1 200px;
+
+}
+.tit{
+      text-align: center;
+}
+#t1 {
+	text-align: center;
+}
+body,
+li,
+ul,
+p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: Arial;
+	
+}
