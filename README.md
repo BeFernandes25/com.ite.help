@@ -1,5 +1,5 @@
 <h1 align="center"> ITE HELP </h1>
-<h2 align="center"> Plataforma para auxilio técnico em faculdade </h2>
+<h3 align="center"> Plataforma para auxilio técnico em faculdade </h3>
 
 # :hammer: Funcionalidades do projeto
 
@@ -8,6 +8,6 @@
 - `Funcionalidade 3`: Pedir para pausar/retomar gravação da aula
 
 ✔️ Técnicas e tecnologias utilizadas
-PHP
-HTML
-CSS
+- `PHP`
+- `HTML`
+- `CSS`
