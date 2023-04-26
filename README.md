@@ -7,5 +7,5 @@
 - `Funcionalidade 2`: Pedir Recursos para os Técnicos 
 - `Funcionalidade 3`: Pedir para pausar/retomar gravação da aula
 
-✔️ Técnicas e tecnologias utilizadas
- `PHP` `HTML` `CSS`
+# Técnicas e tecnologias utilizadas
+<br>`PHP` `HTML` `CSS`
