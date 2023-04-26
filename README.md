@@ -8,6 +8,4 @@
 - `Funcionalidade 3`: Pedir para pausar/retomar gravação da aula
 
 ✔️ Técnicas e tecnologias utilizadas
-- `PHP`
-- `HTML`
-- `CSS`
+ `PHP` `HTML` `CSS`
